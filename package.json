@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "husky": "husky",
     "prepare": "husky"
   },
   "type": "module"
